@@ -7,7 +7,9 @@ Minecraft Forge: 31.0.0以上<br>
 http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.15.2.html
 
 ## 概説
-ネザーポータルとエンドポータルのクラフトレシピが追加されます。
+ネザーポータルとエンドポータルのクラフトレシピが追加されます。<br>
+![recipe_nether_portal](https://github.com/kyazuki/PortablePortal/blob/images/recipe_nether_portal.png)
+![recipe_end_portal](https://github.com/kyazuki/PortablePortal/blob/images/recipe_end_portal.png)
 
 ## 注意点
 - マルチプレイは動作未確認です。
